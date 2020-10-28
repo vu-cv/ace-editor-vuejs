@@ -1,0 +1,29 @@
+{
+  "name": "ace-editor-vuejs",
+  "version": "1.0.0",
+  "description": "ace editor for vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vu-cv/ace-editor-vuejs.git"
+  },
+  "keywords": [
+    "editor",
+    "vue",
+    "vuejs",
+    "ace",
+    "code"
+  ],
+  "author": "chuvu138@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vu-cv/ace-editor-vuejs/issues"
+  },
+  "homepage": "https://github.com/vu-cv/ace-editor-vuejs#readme",
+  "dependencies": {
+    "brace": "^0.11.1"
+  }
+}
