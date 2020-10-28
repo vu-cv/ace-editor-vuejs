@@ -1,8 +1,8 @@
-ace-editor-vuejs
+vuejs-ace-editor
 ====================
 
 
-[![npm](https://img.shields.io/npm/v/ace-editor-vuejs)](https://www.npmjs.com/package/ace-editor-vuejs)
+[![npm](https://img.shields.io/npm/v/vuejs-ace-editor)](https://www.npmjs.com/package/vuejs-ace-editor)
 
 
 A packaging of [ace](https://ace.c9.io/)
@@ -14,13 +14,13 @@ Demo here: https://github.com/chairuosen/vue-ace-editor-demo/tree/vue2
 1. Install
 
     ```
-    npm install ace-editor-vuejs
+    npm install vuejs-ace-editor
     ```
     
 2. Require it in `components` of Vue options
 
     ```js
-    import AceEditor from 'ace-editor-vuejs';
+    import AceEditor from 'vuejs-ace-editor';
     export default {
         ...
         components: {

@@ -1,6 +1,6 @@
 {
-  "name": "ace-editor-vuejs",
-  "version": "1.0.0",
+  "name": "vuejs-ace-editor",
+  "version": "1.0.1",
   "description": "ace editor for vuejs",
   "main": "index.js",
   "scripts": {
