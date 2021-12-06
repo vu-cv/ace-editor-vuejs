@@ -89,6 +89,17 @@ module.exports = {
             vm.$emit('input', content);
             vm.contentBackup = content;
         });
+        
+        editor.on('focus', function () {
+            var content = editor.getValue();
+            vm.$emit('focus', content);
+            vm.contentBackup = content;
+        });
+        editor.on('blur', function () {
+            var content = editor.getValue();
+            vm.$emit('blur', content);
+            vm.contentBackup = content;
+        });
         if (vm.options)
             editor.setOptions(vm.options);
 
