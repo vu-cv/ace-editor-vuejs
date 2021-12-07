@@ -1,6 +1,6 @@
 {
   "name": "vuejs-ace-editor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ace editor for vuejs",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vu-cv/ace-editor-vuejs.git"
+    "url": "git+https://github.com/DataMa-Solutions/ace-editor-vuejs"
   },
   "keywords": [
     "editor",
